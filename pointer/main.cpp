@@ -7,7 +7,10 @@
 //
 
 #include <iostream>
-
+int add(int x,int y)
+{
+    return x+y;
+}
 int main(int argc, const char * argv[]) {
     // insert code here...
     printf("1、Hello, World!\n");
